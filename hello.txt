@@ -1,2 +1,6 @@
 I love git
 Biggest lie alive
+
+ändring 1
+ändring 2
+ändring 3
